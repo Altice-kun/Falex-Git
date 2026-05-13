@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Falex Aero
+Comment=A glass-inspired theme for Falex OS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Falex-Aero
+MetacityTheme=Falex-Aero
+IconTheme=Yaru
+CursorTheme=DMZ-White
+ButtonLayout=:minimize,maximize,close

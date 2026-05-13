@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="falex-customizer">
+  <schema id="org.gnome.shell.extensions.falex-customizer" path="/org/gnome/shell/extensions/falex-customizer/">
+    <key name="taskbar-color" type="s">
+      <default>'#ffffff'</default>
+      <summary>Taskbar color</summary>
+      <description>Color of the taskbar</description>
+    </key>
+    <key name="taskbar-transparency" type="d">
+      <default>0.8</default>
+      <summary>Taskbar transparency</summary>
+      <description>Transparency level of the taskbar (0.0 to 1.0)</description>
+    </key>
+    <!-- Add more keys for other elements -->
+  </schema>
+</schemalist>

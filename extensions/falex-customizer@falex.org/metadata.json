@@ -1,0 +1,7 @@
+{
+  "name": "Falex Customizer",
+  "description": "Extensive customization options for Falex OS desktop elements",
+  "uuid": "falex-customizer@falex.org",
+  "shell-version": ["42", "43", "44"],
+  "url": "https://github.com/Altice-kun/Falex-Git"
+}
